@@ -12,4 +12,9 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 101. Symmetric Tree
 104. Maximum Depth of Binary Tree
 108. Convert Sorted Array to Binary Search Tree
+121. Best Time to Buy and Sell Stock
+122. Best Time to Buy and Sell Stock 2
+125. Valid Palindrome
+136. Single Number
+155. Min Stack
 ```
