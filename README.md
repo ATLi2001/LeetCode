@@ -17,4 +17,9 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 125. Valid Palindrome
 136. Single Number
 155. Min Stack
+167. Two Sum 2 - Input Array is Sorted
+169. Majority Element
+172. Factorial Trailing Zeroes
+190. Reverse Bits
+191. Number of 1 Bits
 ```
