@@ -22,4 +22,10 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 172. Factorial Trailing Zeroes
 190. Reverse Bits
 191. Number of 1 Bits
+198. House Robber
+203. Remove Linked List Elements
+206. Reverse Linked List
+219. Contains Duplicate 2
+226. Invert Binary Tree
+232. Implement Queue using Stacks
 ```
