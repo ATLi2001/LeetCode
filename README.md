@@ -28,4 +28,10 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 219. Contains Duplicate 2
 226. Invert Binary Tree
 232. Implement Queue using Stacks
+263. Ugly Number
+283. Move Zeroes
+342. Power of Four
+349. Intersection of Two Arrays
+371. Sum of Two Integers
+437. Path Sum 3
 ```
