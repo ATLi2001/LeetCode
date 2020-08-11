@@ -3,6 +3,7 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 
 ### Array Manipulation
 ```
+11. Container with most Water
 26. Remove Duplicates from Sorted Array
 27. Remove Element
 53. Maximum Subarray
@@ -10,6 +11,7 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 88. Merge Sorted Array
 121. Best Time to Buy and Sell Stock
 122. Best Time to Buy and Sell Stock 2
+209. Minimum Size Subarray Sum (optimal solution uses sliding window)
 283. Move Zeroes
 ```
 #### Quicksort
@@ -19,8 +21,11 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 ```
 #### Strings
 ```
+3. Longest Substring Without Repeating Characters (sliding window)
 125. Valid Palindrome
 344. Reverse String
+345. Reverse Vowels in a String
+438. Find All Anagrams in a String (sliding window)
 ```
 
 ### Linked Lists
