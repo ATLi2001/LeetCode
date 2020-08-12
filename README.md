@@ -22,7 +22,9 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 #### Strings
 ```
 3. Longest Substring Without Repeating Characters (sliding window)
+76. Minimum Window Substring (sliding window)
 125. Valid Palindrome
+242. Valid Anagram
 344. Reverse String
 345. Reverse Vowels in a String
 438. Find All Anagrams in a String (sliding window)
@@ -41,8 +43,11 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 136. Single Number
 167. Two Sum 2 - Input Array is Sorted
 169. Majority Element
+202. Happy Number (Hash Set)
 219. Contains Duplicate 2
+290. Word Pattern
 349. Intersection of Two Arrays (Hash Set)
+350. Intersection of Two Arrays 2
 ```
 
 ### Stack
