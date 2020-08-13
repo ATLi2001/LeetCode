@@ -40,14 +40,18 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 ### Hash Map
 ```
 1. Two Sum
+15. 3Sum
+18. 4Sum
 136. Single Number
 167. Two Sum 2 - Input Array is Sorted
 169. Majority Element
 202. Happy Number (Hash Set)
+205. Isomorphic Strings
 219. Contains Duplicate 2
 290. Word Pattern
 349. Intersection of Two Arrays (Hash Set)
 350. Intersection of Two Arrays 2
+451. Sort Characters by Frequency (Comparators)
 ```
 
 ### Stack
