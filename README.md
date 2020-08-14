@@ -4,6 +4,7 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 ### Array Manipulation
 ```
 11. Container with most Water
+16. 3Sum Closest (2 pointers)
 26. Remove Duplicates from Sorted Array
 27. Remove Element
 53. Maximum Subarray
@@ -13,6 +14,7 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 122. Best Time to Buy and Sell Stock 2
 209. Minimum Size Subarray Sum (optimal solution uses sliding window)
 283. Move Zeroes
+719. Find Kth Smallest Pair Distance (binary search)
 ```
 #### Quicksort
 ```
@@ -40,9 +42,11 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 ### Hash Map
 ```
 1. Two Sum
-15. 3Sum
-18. 4Sum
+15. 3Sum (can also use 2 pointers)
+18. 4Sum (can also use 2 pointers)
+49. Group Anagrams (obviously uses String concepts about anagrams)
 136. Single Number
+149. Max Points on a Line
 167. Two Sum 2 - Input Array is Sorted
 169. Majority Element
 202. Happy Number (Hash Set)
@@ -51,7 +55,9 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 290. Word Pattern
 349. Intersection of Two Arrays (Hash Set)
 350. Intersection of Two Arrays 2
+447. Number of Boomerangs
 451. Sort Characters by Frequency (Comparators)
+454. 4Sum 2
 ```
 
 ### Stack
