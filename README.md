@@ -35,6 +35,9 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 ### Linked Lists
 ```
 21. Merge Two Sorted Lists
+83. Remove Duplicates from Sorted List
+86. Partition List
+92. Reverse Linked List 2
 203. Remove Linked List Elements
 206. Reverse Linked List
 ```
@@ -52,6 +55,7 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 202. Happy Number (Hash Set)
 205. Isomorphic Strings
 219. Contains Duplicate 2
+220. Contains Duplicate 3 (Tree Set)
 290. Word Pattern
 349. Intersection of Two Arrays (Hash Set)
 350. Intersection of Two Arrays 2
