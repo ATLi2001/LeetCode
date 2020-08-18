@@ -3,17 +3,17 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 
 ### Array Manipulation
 ```
-11. Container with most Water
-16. 3Sum Closest (2 pointers)
 26. Remove Duplicates from Sorted Array
-27. Remove Element
 53. Maximum Subarray
-80. Remove Duplicates from Sorted Array 2
 88. Merge Sorted Array
 121. Best Time to Buy and Sell Stock
 122. Best Time to Buy and Sell Stock 2
-209. Minimum Size Subarray Sum (optimal solution uses sliding window)
 283. Move Zeroes
+27. Remove Element
+80. Remove Duplicates from Sorted Array 2
+11. Container with most Water
+209. Minimum Size Subarray Sum (optimal solution uses sliding window)
+16. 3Sum Closest (2 pointers)
 719. Find Kth Smallest Pair Distance (binary search)
 ```
 #### Quicksort
@@ -23,48 +23,48 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 ```
 #### Strings
 ```
-3. Longest Substring Without Repeating Characters (sliding window)
-76. Minimum Window Substring (sliding window)
 125. Valid Palindrome
-242. Valid Anagram
 344. Reverse String
 345. Reverse Vowels in a String
+3. Longest Substring Without Repeating Characters (sliding window)
 438. Find All Anagrams in a String (sliding window)
+76. Minimum Window Substring (sliding window)
+242. Valid Anagram
 ```
 
 ### Linked Lists
 ```
-2. Add Two Numbers
 21. Merge Two Sorted Lists
-83. Remove Duplicates from Sorted List
-86. Partition List
-92. Reverse Linked List 2
 203. Remove Linked List Elements
 206. Reverse Linked List
+92. Reverse Linked List 2
+83. Remove Duplicates from Sorted List
+86. Partition List
 328. Odd Even Linked List
+2. Add Two Numbers
 445. Add Two Numbers 2
 ```
 
 ### Hash Map
 ```
 1. Two Sum
-15. 3Sum (can also use 2 pointers)
-18. 4Sum (can also use 2 pointers)
-49. Group Anagrams (obviously uses String concepts about anagrams)
 136. Single Number
-149. Max Points on a Line
 167. Two Sum 2 - Input Array is Sorted
 169. Majority Element
-202. Happy Number (Hash Set)
-205. Isomorphic Strings
 219. Contains Duplicate 2
-220. Contains Duplicate 3 (Tree Set)
-290. Word Pattern
 349. Intersection of Two Arrays (Hash Set)
 350. Intersection of Two Arrays 2
-447. Number of Boomerangs
+202. Happy Number (Hash Set)
+290. Word Pattern
+205. Isomorphic Strings
 451. Sort Characters by Frequency (Comparators)
+15. 3Sum (can also use 2 pointers)
+18. 4Sum (can also use 2 pointers)
 454. 4Sum 2
+49. Group Anagrams (obviously uses String concepts about anagrams)
+447. Number of Boomerangs
+149. Max Points on a Line
+220. Contains Duplicate 3 (Tree Set)
 ```
 
 ### Stack
