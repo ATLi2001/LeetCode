@@ -34,12 +34,15 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 
 ### Linked Lists
 ```
+2. Add Two Numbers
 21. Merge Two Sorted Lists
 83. Remove Duplicates from Sorted List
 86. Partition List
 92. Reverse Linked List 2
 203. Remove Linked List Elements
 206. Reverse Linked List
+328. Odd Even Linked List
+445. Add Two Numbers 2
 ```
 
 ### Hash Map
