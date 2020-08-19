@@ -43,6 +43,9 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 328. Odd Even Linked List
 2. Add Two Numbers
 445. Add Two Numbers 2
+82. Remove Duplicates from Sorted List 2
+24. Swap Nodes in Pairs
+25. Reverse Nodes in K Group
 ```
 
 ### Hash Map
