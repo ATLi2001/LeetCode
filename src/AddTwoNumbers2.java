@@ -1,20 +1,8 @@
+import common.ListNode;
+
 import java.util.Stack;
 
 public class AddTwoNumbers2 {
-    // Definition for singly-linked list.
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) {
-            this.val = val;
-        }
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
-
     // most significant digit comes first
     // don't reverse lists and then use previous addTwoNumbers
     private static ListNode addTwoNumbers(ListNode l1, ListNode l2) {

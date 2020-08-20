@@ -1,17 +1,6 @@
+import common.ListNode;
+
 public class RemoveDuplicatesFromSortedList2 {
-    // Definition for singly-linked list.
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) {
-            this.val = val;
-        }
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
 
     // leave only distinct numbers from the original list
     private static ListNode deleteDuplicates(ListNode head) {

@@ -1,17 +1,6 @@
+import common.ListNode;
+
 public class ReverseNodesInKGroup {
-    // Definition for singly-linked list.
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) {
-            this.val = val;
-        }
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
 
     // Given a linked list, reverse the nodes of a linked list k at a time and return its modified list.
     // k is a positive integer and is less than or equal to the length of the linked list.

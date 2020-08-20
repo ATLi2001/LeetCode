@@ -46,6 +46,12 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 82. Remove Duplicates from Sorted List 2
 24. Swap Nodes in Pairs
 25. Reverse Nodes in K Group
+147. Insertion Sort List
+148. Sort List (merge sort)
+237. Delete Node in a Linked List
+19. Remove Nth Node from End of List
+61. Rotate List
+143. Reorder List
 ```
 
 ### Hash Map

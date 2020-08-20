@@ -1,17 +1,6 @@
+import common.ListNode;
+
 public class OddEvenLinkedList {
-    // Definition for singly-linked list.
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) {
-            this.val = val;
-        }
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
 
     // Given a singly linked list, group all odd nodes together followed by the even nodes
     // The first node is considered odd, the second node even and so on

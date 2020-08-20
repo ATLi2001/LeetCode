@@ -1,17 +1,6 @@
+import common.ListNode;
+
 public class ReverseLinkedList2 {
-    // Definition for singly-linked list.
-    public static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) {
-            this.val = val;
-        }
-        ListNode(int val, ListNode next) {
-            this.val = val;
-            this.next = next;
-        }
-    }
 
     // Reverse a linked list from position m to n. Do it in one-pass.
     // Note: 1 ≤ m ≤ n ≤ length of list.
