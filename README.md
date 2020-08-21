@@ -52,6 +52,7 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 19. Remove Nth Node from End of List
 61. Rotate List
 143. Reorder List
+234. Palindrome Linked List (fast, slow pointers)
 ```
 
 ### Hash Map
@@ -79,6 +80,8 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 ### Stack
 ```
 20. Valid Parentheses
+71. Simplify Path
+150. Evaluate Reverse Polish Notation
 155. Min Stack
 232. Implement Queue using Stacks
 ```
@@ -90,6 +93,8 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 108. Convert Sorted Array to Binary Search Tree
 226. Invert Binary Tree
 437. Path Sum 3 (optimal solution uses Hash Maps)
+144. Binary Tree Preorder Traversal
+145. Binary Tree Postorder Traversal
 ```
 
 ### Bits
