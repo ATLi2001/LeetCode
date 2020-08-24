@@ -93,8 +93,18 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 108. Convert Sorted Array to Binary Search Tree
 226. Invert Binary Tree
 437. Path Sum 3 (optimal solution uses Hash Maps)
-144. Binary Tree Preorder Traversal
-145. Binary Tree Postorder Traversal
+144. Binary Tree Preorder Traversal (iterative solution uses stacks)
+145. Binary Tree Postorder Traversal (iterative solution uses stacks)
+94. Binary Tree Inorder Traversal (iterative solution uses stacks)
+102. Binary Tree Level Order Traversal (also BFS)
+107. Binary Tree Level Order Traversal 2
+103. Binary Tree Zigzag Level Order Traversal
+199. Binary Tree Right Side View
+```
+
+#### BFS
+```
+279. Perfect Squares (can also use dynamic programming)
 ```
 
 ### Bits
