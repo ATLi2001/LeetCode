@@ -75,6 +75,7 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 447. Number of Boomerangs
 149. Max Points on a Line
 220. Contains Duplicate 3 (Tree Set)
+347. Top K Frequent Elements (used key indexed counting, could also use Priority Queues)
 ```
 
 ### Stack
@@ -105,6 +106,7 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 #### BFS
 ```
 279. Perfect Squares (can also use dynamic programming)
+127. Word Ladder
 ```
 
 ### Bits
