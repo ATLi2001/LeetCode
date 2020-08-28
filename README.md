@@ -101,6 +101,9 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 107. Binary Tree Level Order Traversal 2
 103. Binary Tree Zigzag Level Order Traversal
 199. Binary Tree Right Side View
+111. Minimum Depth of Binary Tree
+100. Same Tree
+222. Count Complete Tree Nodes
 ```
 
 #### BFS
