@@ -1,5 +1,5 @@
 # LeetCode
-This repository contains my solutions to solving LeetCode coding problems in Java. Below lists the LeetCode id and problem names completed, organized by subject.
+This repository contains my solutions to solving LeetCode coding problems in Java. Below lists the LeetCode id and problem names completed, organized by subject and in the order completed.
 
 ### Array Manipulation
 ```
@@ -104,6 +104,10 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 111. Minimum Depth of Binary Tree
 100. Same Tree
 222. Count Complete Tree Nodes
+110. Balanced Binary Tree
+112. Path Sum
+404. Sum of Left Leaves
+257. Binary Tree Paths
 ```
 
 #### BFS
