@@ -108,6 +108,8 @@ This repository contains my solutions to solving LeetCode coding problems in Jav
 112. Path Sum
 404. Sum of Left Leaves
 257. Binary Tree Paths
+113. Path Sum 2 (backtrack)
+129. Sum Root to Leaf Numbers
 ```
 
 #### BFS
